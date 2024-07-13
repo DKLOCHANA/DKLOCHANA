@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on : **Flutter Projects, ML Projects**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/DKLOCHANA](https://github.com/DKLOCHANA)
-
 - 💬 Ask me about : **Flutter, Python**
 
 - 📫 How to reach me : **dklochanaedirisooriya@gmail.com**
