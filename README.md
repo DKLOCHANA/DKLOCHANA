@@ -1,4 +1,6 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Lochana H Edirisooriya</h1>
 <h3 align="center">A passionate freshly graduated looking for data enginner intern</h3>
 
