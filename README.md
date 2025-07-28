@@ -1,4 +1,4 @@
-![MasterHead](https://www.androiddeveloper.co.in/blog/wp-content/uploads/2016/03/Android-App-Development-2.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg)
 <h1 align="center">Hi 👋, I'm Lochana H Edirisooriya</h1>
 <h3 align="center">A passionate freshly graduated looking for data enginner intern</h3>
 
