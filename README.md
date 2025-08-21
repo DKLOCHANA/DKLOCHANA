@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Lochana H Edirisooriya</h1>
-<h3 align="center">A passionate recent graduate seeking a data engineering internship.</h3>
+<h3 align="center">A passionate recent graduate seeking a data engineering job role.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
