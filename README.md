@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg" alt="MasterHead">
+  <img src="[https://miro.medium.com/v2/resize:fit:640/format:webp/1*0JeuORZM3OoM9XtMmJvClg.jpeg](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Lochana H Edirisooriya</h1>
 <h3 align="center">A passionate recent graduate seeking a data engineering job role.</h3>
